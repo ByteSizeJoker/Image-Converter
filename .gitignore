@@ -1,7 +1,6 @@
 # Java compiled output
 *.class
 bin/
-out/
 build/
 
 # Markdown documentation
